@@ -1,3 +1,4 @@
 150.158.112.123
 fmbox.cc
 event.pull.hebtv.com
+player.cntv.cn
